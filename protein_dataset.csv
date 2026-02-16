@@ -1,0 +1,1142 @@
+﻿source,source_desc,source_id,target,target_desc,target_id,weight
+GeneSym,UniprotACC,GeneID,UniprotACC,Organism,TaxID,weight
+PIK3R2,O00459,5296,P03496,Influenza A virus (strain A/Puerto Rico/8/34 H1N1),211044,1
+PVRL1,Q15223,5818,A1Z0Q5,Human herpesvirus 1,10298,1
+CAV1,Q03135,857,P03301,Poliovirus type 1 (strain Sabin),12082,1
+PVR,P15151,5817,P03301,Poliovirus type 1 (strain Sabin),12082,1
+ITCH,Q96J02,83737,P13285,Epstein-Barr virus (strain B95-8),10377,1
+LGALS3BP,Q08380,3959,P13285,Epstein-Barr virus (strain B95-8),10377,1
+MAPK1,P28482,5594,Q69559,Human herpesvirus 6,10368,1
+ATP6V0C,P27449,527,P06928,Bovine papillomavirus type 1,10559,1
+PDGFRB,P09619,5159,P06928,Bovine papillomavirus type 1,10559,1
+CXADR,P78310,1525,P36711,Human adenovirus 12,28282,1
+CAPRIN1,Q14444,4076,P21605,Vaccinia virus (strain Western Reserve / WR),10254,1
+UBE2L6,O14933,9246,P21605,Vaccinia virus (strain Western Reserve / WR),10254,1
+G3BP1,Q13283,10146,P21605,Vaccinia virus (strain Western Reserve / WR),10254,1
+RXRA,P19793,6256,Q4AE16,Hepatitis B virus,10407,1
+SKP2,Q13309,6502,Q4AE16,Hepatitis B virus,10407,1
+IFIH1,Q9BYX4,64135,P69284,Sendai virus (strain Fushimi),11195,1
+IRAK2,O43187,3656,P68467,Vaccinia virus (strain Copenhagen),10249,1
+TRAF6,Q9Y4K3,7189,P68467,Vaccinia virus (strain Copenhagen),10249,1
+DDX3X,O00571,1654,P68467,Vaccinia virus (strain Copenhagen),10249,1
+TRAF6,Q9Y4K3,7189,Q8V2D1,Human cytomegalovirus,10359,1
+CCDC14,Q49A88,64770,Q777C3,Epstein-Barr virus (strain GD1),10376,1
+CTSC,P53634,1075,Q777C3,Epstein-Barr virus (strain GD1),10376,1
+MAPK7,Q13164,5598,Q777C3,Epstein-Barr virus (strain GD1),10376,1
+RPL4,P36578,6124,P12977,Epstein-Barr virus (strain B95-8),10377,1
+NR4A1,P22736,3164,P12977,Epstein-Barr virus (strain B95-8),10377,1
+CSNK2B,P67870,1460,P26662,Hepatitis C virus genotype 1b (isolate Japanese),11116,1
+PPARG,P37231,5468,P26662,Hepatitis C virus genotype 1b (isolate Japanese),11116,1
+HIST1H2AI,P0C0S8,8329,Q9DUM3,Human herpesvirus 8,37296,1
+STAT3,P40763,6774,Q9DUM3,Human herpesvirus 8,37296,1
+HAX1,O00165,10456,O12160,Human immunodeficiency virus 1,11676,1
+HNRNPK,P61978,3190,Q8V1E7,African swine fever virus,10497,1
+CDK1,P06493,983,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+KHDRBS1,Q07666,10657,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SF3B2,Q13435,10992,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+MAGED1,Q9Y5V3,9500,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPK,P61978,3190,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PSMA3,P25788,5684,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RCN2,Q14257,5955,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+UBC,P0CG48,7316,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPA2B1,P22626,3181,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HSPA8,P11142,3312,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SET,Q01105,6418,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+AKAP8L,Q9ULX6,26993,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+ALDH1B1,P30837,219,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPD,Q14103,3184,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPM,P52272,4670,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPR,O43390,10236,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPU,Q00839,3192,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+GCN1L1,Q92616,10985,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HSPB1,P04792,3315,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HSPD1,P10809,3329,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+IARS,P41252,3376,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+GBAS,O75323,2631,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HSPA1A,P08107,3303,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+XPOT,O43592,11260,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+WDR77,Q9BQA1,79084,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+FLNC,Q14315,2318,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+BAG2,O95816,9532,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+UBR5,O95071,51366,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+TUBB,P07437,203068,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+TUBA1B,P68363,10376,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+TNNT3,P45378,7140,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+CAD,P27708,790,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+TIMM50,Q3ZCQ8,92609,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+CAPZA1,P52907,829,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+GLUD1,P00367,2746,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SSBP1,Q04837,6742,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SNRPD2,P62316,6633,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SNRPB2,P08579,6629,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SNRPA,P09012,6626,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SNRNP200,O75643,23020,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPCL1,O60812,343069,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+LDHB,P07195,3945,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SLC25A6,P12236,293,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HIST1H1D,P16402,3007,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SFPQ,P23246,6421,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPAB,Q99729,3182,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SERBP1,Q8NC51,26135,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+LRPPRC,P42704,10128,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SEC16A,O15027,9919,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SEC13,P55735,6396,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RUVBL2,Q9Y230,10856,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RSL1D1,O76021,26156,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS9,P46781,6203,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS8,P62241,6202,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPA0,Q13151,10949,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS6,P62753,6194,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS3A,P61247,6189,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS23,P62266,6228,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS2,P15880,6187,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS18,P62269,6222,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS17,P08708,6218,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS16,P62249,6217,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPS13,P62277,6207,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL9,P32969,6133,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL8,P62917,6132,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL7A,P62424,6130,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL7,P18124,6129,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL31,P62899,6160,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HIST1H2BD,P62807,3017,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL23,P62829,9349,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL22,P35268,6146,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL18,Q07020,6141,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL17-C18orf32,P18621,100526842,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL13,P26373,6137,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL12,P30050,6136,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RPL10,P27635,6134,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+MLF2,Q15773,8079,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+EPRS,P07814,2058,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RFC3,P40938,5983,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+GRPEL1,Q9HAV7,80273,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+CLPX,O76031,10845,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RCN1,Q15293,5954,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+CLTC,Q00610,1213,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+CSE1L,P55060,1434,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+EIF3B,P55884,8662,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+QARS,P47897,5859,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PTBP1,P26599,5725,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PSMD2,Q13200,5708,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HSPA5,P11021,3309,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PSMC2,P35998,5701,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PSMB6,P28072,5694,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PRPF8,Q6P2Q9,10594,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DARS,P14868,1615,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+ILF3,Q12906,3609,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+NCL,P19338,4691,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DDX17,Q92841,10521,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DDX5,P17844,1655,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DHX9,Q08211,1660,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PCCB,P05166,5096,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PCCA,P05165,5095,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+PCBP2,Q15366,5094,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+H1FX,Q92522,8971,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+P4HA2,O15460,8974,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DNAJB1,P25685,3337,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+NUP93,Q8N1F7,9688,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DNAJB5,O75953,25822,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+NIPSNAP1,Q9BPW8,8508,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+DNAJB6,O75190,10049,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+NONO,Q15233,4841,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RUVBL1,Q9Y265,8607,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SYNCRIP,O60506,10492,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+XRCC5,P13010,7520,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SF3B1,O75533,23451,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+RAD50,Q92878,10111,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HNRNPA1,P09651,3178,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+HAX1,O00165,10456,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+IQGAP2,Q13576,10788,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+SRSF1,Q07955,6426,Q8AZK7,Epstein-Barr virus (strain GD1),10376,1
+IQGAP2,Q13576,10788,P13288,Epstein-Barr virus (strain B95-8),10377,1
+HNRNPA2B1,P22626,3181,P68318,Vaccinia virus (strain Copenhagen),10249,1
+RBM3,P98179,5935,P68318,Vaccinia virus (strain Copenhagen),10249,1
+HNRNPA2B1,P22626,3181,P07242,Vaccinia virus (strain Western Reserve / WR),10254,1
+SOCS1,O15524,8651,P05888,Human immunodeficiency virus type 1 group M subtype B (isolate MN),11696,1
+TUBA3D,Q13748,113457,P05888,Human immunodeficiency virus type 1 group M subtype B (isolate MN),11696,1
+UBC,P0CG48,7316,P05888,Human immunodeficiency virus type 1 group M subtype B (isolate MN),11696,1
+UBC,P0CG48,7316,P04325,Human immunodeficiency virus type 1 (isolate 12),11679,1
+EZR,P15311,7430,P03485,Influenza A virus (strain A/Puerto Rico/8/34 H1N1),211044,1
+HSPA8,P11142,3312,P03485,Influenza A virus (strain A/Puerto Rico/8/34 H1N1),211044,1
+NPM1,P06748,4869,P68951,Human adenovirus 5,28285,1
+SET,Q01105,6418,P68951,Human adenovirus 5,28285,1
+NPM1,P06748,4869,P24938,Human adenovirus 5,28285,1
+MAP2K7,O14733,5609,P20505,Vaccinia virus (strain Copenhagen),10249,1
+MAPK8IP1,Q9UQF2,9479,P20505,Vaccinia virus (strain Copenhagen),10249,1
+JUN,P05412,3725,P20505,Vaccinia virus (strain Copenhagen),10249,1
+PURA,Q00577,5813,P03072,JC polyomavirus,10632,1
+UBE2I,P63279,7329,P03114,Human papillomavirus type 16,333760,1
+TRIP13,Q15645,9319,P03114,Human papillomavirus type 16,333760,1
+POLA1,P09884,5422,P10193,Human herpesvirus 1 (strain 17),10299,1
+SUMO1,P63165,7341,P59595,Human SARS coronavirus,227859,1
+HNRNPA1,P09651,3178,P59595,Human SARS coronavirus,227859,1
+SMARCB1,Q12824,6598,P03116,Bovine papillomavirus type 1,10559,1
+PIAS1,O75925,8554,P03116,Bovine papillomavirus type 1,10559,1
+PIAS2,O75928,9063,P03116,Bovine papillomavirus type 1,10559,1
+SUMO1,P63165,7341,P03116,Bovine papillomavirus type 1,10559,1
+RANBP2,P49792,5903,P03116,Bovine papillomavirus type 1,10559,1
+SUMO2,P61956,6613,P03116,Bovine papillomavirus type 1,10559,1
+RPA1,P27694,6117,P03116,Bovine papillomavirus type 1,10559,1
+UBE2I,P63279,7329,P03116,Bovine papillomavirus type 1,10559,1
+SMARCB1,Q12824,6598,P04014,Human papillomavirus type 11,10580,1
+PIAS1,O75925,8554,P04014,Human papillomavirus type 11,10580,1
+PIAS2,O75928,9063,P04014,Human papillomavirus type 11,10580,1
+SUMO1,P63165,7341,P04014,Human papillomavirus type 11,10580,1
+POLA1,P09884,5422,P04014,Human papillomavirus type 11,10580,1
+H1F0,P07305,3005,P04014,Human papillomavirus type 11,10580,1
+SMARCB1,Q12824,6598,P06789,Human papillomavirus type 18,333761,1
+CCNT1,O60563,904,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+KAT5,Q92993,10524,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+SUB1,P53999,10923,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+SMARCA2,P51531,6595,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+CDK9,P50750,1025,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+SMARCB1,Q12824,6598,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+EP300,Q09472,2033,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+SMARCC2,Q8TAQ2,6601,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+SMARCC1,Q92922,6599,P04326,Human immunodeficiency virus type 1 (isolate 12),11679,1
+CCNT1,O60563,904,O12161,Human immunodeficiency virus 1,11676,1
+EP300,Q09472,2033,O12161,Human immunodeficiency virus 1,11676,1
+KAT2B,Q92831,8850,O12161,Human immunodeficiency virus 1,11676,1
+TP73,O15350,7161,O12161,Human immunodeficiency virus 1,11676,1
+KAT2B,Q92831,8850,P03119,Human papillomavirus type 6b,10600,1
+KAT2B,Q92831,8850,P04015,Human papillomavirus type 11,10580,1
+SMN1,Q16637,6606,P04015,Human papillomavirus type 11,10580,1
+BRD4,O60885,23476,P04015,Human papillomavirus type 11,10580,1
+BRD4,O60885,23476,P11298,Bovine papillomavirus type 2,10560,1
+BRD4,O60885,23476,P17383,Human papillomavirus type 31,10585,1
+BRD4,O60885,23476,P03121,Cottontail rabbit papillomavirus (strain Kansas),31553,1
+KAT2B,Q92831,8850,P03120,Human papillomavirus type 16,333760,1
+TOPBP1,Q92547,11073,P03120,Human papillomavirus type 16,333760,1
+POMP,Q9Y244,51371,P03120,Human papillomavirus type 16,333760,1
+CITED1,Q99966,4435,P03120,Human papillomavirus type 16,333760,1
+GTF2B,Q00403,2959,P03120,Human papillomavirus type 16,333760,1
+TBP,P20226,6908,P03120,Human papillomavirus type 16,333760,1
+CEBPB,P17676,1051,P03120,Human papillomavirus type 16,333760,1
+CEBPA,P49715,1050,P03120,Human papillomavirus type 16,333760,1
+SMN1,Q16637,6606,P03120,Human papillomavirus type 16,333760,1
+BRD4,O60885,23476,P03120,Human papillomavirus type 16,333760,1
+TP53,P04637,7157,P03120,Human papillomavirus type 16,333760,1
+EP300,Q09472,2033,P03122,Bovine papillomavirus type 1,10559,1
+GTF2B,Q00403,2959,P03122,Bovine papillomavirus type 1,10559,1
+TBP,P20226,6908,P03122,Bovine papillomavirus type 1,10559,1
+TAF1,P21675,6872,P03122,Bovine papillomavirus type 1,10559,1
+NAP1L1,P55209,4673,P03122,Bovine papillomavirus type 1,10559,1
+TAF6,P49848,6878,P03122,Bovine papillomavirus type 1,10559,1
+CEBPB,P17676,1051,P03122,Bovine papillomavirus type 1,10559,1
+CEBPA,P49715,1050,P03122,Bovine papillomavirus type 1,10559,1
+SMN1,Q16637,6606,P03122,Bovine papillomavirus type 1,10559,1
+BRD4,O60885,23476,P03122,Bovine papillomavirus type 1,10559,1
+GPS2,Q13227,2874,P03122,Bovine papillomavirus type 1,10559,1
+EP300,Q09472,2033,P06790,Human papillomavirus type 18,333761,1
+KAT2B,Q92831,8850,P06790,Human papillomavirus type 18,333761,1
+TAF1,P21675,6872,P06790,Human papillomavirus type 18,333761,1
+NAP1L1,P55209,4673,P06790,Human papillomavirus type 18,333761,1
+TAF6,P49848,6878,P06790,Human papillomavirus type 18,333761,1
+CEBPB,P17676,1051,P06790,Human papillomavirus type 18,333761,1
+CEBPA,P49715,1050,P06790,Human papillomavirus type 18,333761,1
+SMN1,Q16637,6606,P06790,Human papillomavirus type 18,333761,1
+BRD4,O60885,23476,P06790,Human papillomavirus type 18,333761,1
+EP300,Q09472,2033,P06422,Human papillomavirus type 8,10579,1
+NAP1L1,P55209,4673,P06422,Human papillomavirus type 8,10579,1
+CEBPB,P17676,1051,P06422,Human papillomavirus type 8,10579,1
+CEBPA,P49715,1050,P06422,Human papillomavirus type 8,10579,1
+CREBBP,Q92793,1387,P03074,Murine polyomavirus (strain 3),10635,1
+EP300,Q09472,2033,P03074,Murine polyomavirus (strain 3),10635,1
+CREBBP,Q92793,1387,P03259,Human adenovirus 12,28282,1
+EP300,Q09472,2033,P03259,Human adenovirus 12,28282,1
+PSMC5,P62195,5705,P03259,Human adenovirus 12,28282,1
+YY1,P25490,7528,P03259,Human adenovirus 12,28282,1
+POU5F1,Q01860,5460,P03259,Human adenovirus 12,28282,1
+CITED1,Q99966,4435,P03259,Human adenovirus 12,28282,1
+PSMC3,P17980,5702,P03255,Human adenovirus 5,28285,1
+KAT2A,Q92830,2648,P03255,Human adenovirus 5,28285,1
+TRRAP,Q9Y4A5,8295,P03255,Human adenovirus 5,28285,1
+DYRK1B,Q9Y463,9149,P03255,Human adenovirus 5,28285,1
+ZMYND11,Q15326,10771,P03255,Human adenovirus 5,28285,1
+CCNA1,P78396,8900,P03255,Human adenovirus 5,28285,1
+RARB,P10826,5915,P03255,Human adenovirus 5,28285,1
+MED28,Q9H204,80306,P03255,Human adenovirus 5,28285,1
+PSMC6,P62333,5706,P03255,Human adenovirus 5,28285,1
+CTBP1,Q13363,1487,P03255,Human adenovirus 5,28285,1
+CREBBP,Q92793,1387,P03255,Human adenovirus 5,28285,1
+EP300,Q09472,2033,P03255,Human adenovirus 5,28285,1
+PSMC5,P62195,5705,P03255,Human adenovirus 5,28285,1
+POU5F1,Q01860,5460,P03255,Human adenovirus 5,28285,1
+RBL2,Q08999,5934,P03255,Human adenovirus 5,28285,1
+RBL1,P28749,5933,P03255,Human adenovirus 5,28285,1
+RB1,P06400,5925,P03255,Human adenovirus 5,28285,1
+KAT2B,Q92831,8850,P03255,Human adenovirus 5,28285,1
+TBP,P20226,6908,P03255,Human adenovirus 5,28285,1
+TAF1,P21675,6872,P03255,Human adenovirus 5,28285,1
+STAT1,P42224,6772,P03255-2,Human adenovirus 5,28285,1
+GNB2L1,P63244,10399,P03255-2,Human adenovirus 5,28285,1
+MDM4,O15151,4194,P03255-2,Human adenovirus 5,28285,1
+PSMC3,P17980,5702,P03255-2,Human adenovirus 5,28285,1
+KAT2A,Q92830,2648,P03255-2,Human adenovirus 5,28285,1
+TRRAP,Q9Y4A5,8295,P03255-2,Human adenovirus 5,28285,1
+DYRK1B,Q9Y463,9149,P03255-2,Human adenovirus 5,28285,1
+ZMYND11,Q15326,10771,P03255-2,Human adenovirus 5,28285,1
+CREBBP,Q92793,1387,P03255-2,Human adenovirus 5,28285,1
+EP300,Q09472,2033,P03255-2,Human adenovirus 5,28285,1
+PSMC5,P62195,5705,P03255-2,Human adenovirus 5,28285,1
+RAN,P62826,5901,P03255-2,Human adenovirus 5,28285,1
+RB1,P06400,5925,P03255-2,Human adenovirus 5,28285,1
+KAT2B,Q92831,8850,P03255-2,Human adenovirus 5,28285,1
+STAT1,P42224,6772,P03255-1,Human adenovirus 5,28285,1
+PSMC3,P17980,5702,P03255-1,Human adenovirus 5,28285,1
+EP300,Q09472,2033,P03255-1,Human adenovirus 5,28285,1
+PSMC5,P62195,5705,P03255-1,Human adenovirus 5,28285,1
+RAN,P62826,5901,P03255-1,Human adenovirus 5,28285,1
+RB1,P06400,5925,P03255-1,Human adenovirus 5,28285,1
+PSMC5,P62195,5705,P03259-1,Human adenovirus 12,28282,1
+RPA1,P27694,6117,P03070,Simian virus 40,10633,1
+CREBBP,Q92793,1387,P03070,Simian virus 40,10633,1
+EP300,Q09472,2033,P03070,Simian virus 40,10633,1
+PSMC5,P62195,5705,P03070,Simian virus 40,10633,1
+RAN,P62826,5901,P03070,Simian virus 40,10633,1
+HDAC1,Q13547,3065,P03070,Simian virus 40,10633,1
+CDK1,P06493,983,P03070,Simian virus 40,10633,1
+CCNA2,P20248,890,P03070,Simian virus 40,10633,1
+CDK2,P24941,1017,P03070,Simian virus 40,10633,1
+CSNK2A1,P68400,1457,P03070,Simian virus 40,10633,1
+POLA1,P09884,5422,P03070,Simian virus 40,10633,1
+H1F0,P07305,3005,P03070,Simian virus 40,10633,1
+TOP1,P11387,7150,P03070,Simian virus 40,10633,1
+FBXW11,Q9UKB1,23291,P03070,Simian virus 40,10633,1
+FBXW7,Q969H0,55294,P03070,Simian virus 40,10633,1
+TEAD1,P28347,7003,P03070,Simian virus 40,10633,1
+BUB3,O43684,9184,P03070,Simian virus 40,10633,1
+IRS1,P35568,3667,P03070,Simian virus 40,10633,1
+KPNA4,O00629,3840,P03070,Simian virus 40,10633,1
+KIN,O60870,22944,P03070,Simian virus 40,10633,1
+UBTF,P17480,7343,P03070,Simian virus 40,10633,1
+BUB1,O43683,699,P03070,Simian virus 40,10633,1
+PURA,Q00577,5813,P03070,Simian virus 40,10633,1
+BTRC,Q9Y297,8945,P03070,Simian virus 40,10633,1
+RB1,P06400,5925,P03070,Simian virus 40,10633,1
+RPA2,P15927,6118,P03070,Simian virus 40,10633,1
+GTF2B,Q00403,2959,P03070,Simian virus 40,10633,1
+TBP,P20226,6908,P03070,Simian virus 40,10633,1
+TAF1,P21675,6872,P03070,Simian virus 40,10633,1
+TP53,P04637,7157,P03070,Simian virus 40,10633,1
+KPNA2,P52292,3838,P03070,Simian virus 40,10633,1
+SP1,P08047,6667,P03070,Simian virus 40,10633,1
+CREBBP,Q92793,1387,P03129,Human papillomavirus type 16,333760,1
+EP300,Q09472,2033,P03129,Human papillomavirus type 16,333760,1
+RAN,P62826,5901,P03129,Human papillomavirus type 16,333760,1
+HDAC1,Q13547,3065,P03129,Human papillomavirus type 16,333760,1
+CDK1,P06493,983,P03129,Human papillomavirus type 16,333760,1
+CCNA2,P20248,890,P03129,Human papillomavirus type 16,333760,1
+CDK2,P24941,1017,P03129,Human papillomavirus type 16,333760,1
+CSNK2A1,P68400,1457,P03129,Human papillomavirus type 16,333760,1
+POU5F1,Q01860,5460,P03129,Human papillomavirus type 16,333760,1
+RBL2,Q08999,5934,P03129,Human papillomavirus type 16,333760,1
+RBL1,P28749,5933,P03129,Human papillomavirus type 16,333760,1
+RB1,P06400,5925,P03129,Human papillomavirus type 16,333760,1
+KAT2B,Q92831,8850,P03129,Human papillomavirus type 16,333760,1
+JUND,P17535,3727,P03129,Human papillomavirus type 16,333760,1
+CHD4,Q14839,1108,P03129,Human papillomavirus type 16,333760,1
+JUNB,P17275,3726,P03129,Human papillomavirus type 16,333760,1
+RPS25,P62851,6230,P03129,Human papillomavirus type 16,333760,1
+NOLC1,Q14978,9221,P03129,Human papillomavirus type 16,333760,1
+SIVA1,O15304,10572,P03129,Human papillomavirus type 16,333760,1
+PSMC1,P62191,5700,P03129,Human papillomavirus type 16,333760,1
+FOXM1,Q08050,2305,P03129,Human papillomavirus type 16,333760,1
+E2F3,O00716,1871,P03129,Human papillomavirus type 16,333760,1
+E2F4,Q16254,1874,P03129,Human papillomavirus type 16,333760,1
+E2F2,Q14209,1870,P03129,Human papillomavirus type 16,333760,1
+FOS,P01100,2353,P03129,Human papillomavirus type 16,333760,1
+SNW1,Q13573,22938,P03129,Human papillomavirus type 16,333760,1
+TFDP2,Q14188,7029,P03129,Human papillomavirus type 16,333760,1
+CCNE2,O96020,9134,P03129,Human papillomavirus type 16,333760,1
+DNAJA3,Q96EY1,9093,P03129,Human papillomavirus type 16,333760,1
+CDKN1A,P38936,1026,P03129,Human papillomavirus type 16,333760,1
+UBR4,Q5T4S7,23352,P03129,Human papillomavirus type 16,333760,1
+E2F1,Q01094,1869,P03129,Human papillomavirus type 16,333760,1
+MYC,P01106,4609,P03129,Human papillomavirus type 16,333760,1
+IRF1,P10914,3659,P03129,Human papillomavirus type 16,333760,1
+PPP2R1A,P30153,5518,P03129,Human papillomavirus type 16,333760,1
+PPP2CA,P67775,5515,P03129,Human papillomavirus type 16,333760,1
+TBP,P20226,6908,P03129,Human papillomavirus type 16,333760,1
+JUN,P05412,3725,P03129,Human papillomavirus type 16,333760,1
+PKM,P14618,5315,P03129,Human papillomavirus type 16,333760,1
+HDAC2,Q92769,3066,P03129,Human papillomavirus type 16,333760,1
+BRCA1,P38398,672,P03129,Human papillomavirus type 16,333760,1
+EP300,Q09472,2033,P04020,Human papillomavirus type 11,10580,1
+RB1,P06400,5925,P04020,Human papillomavirus type 11,10580,1
+UBR4,Q5T4S7,23352,P04020,Human papillomavirus type 11,10580,1
+E2F1,Q01094,1869,P04020,Human papillomavirus type 11,10580,1
+MYC,P01106,4609,P04020,Human papillomavirus type 11,10580,1
+IRF1,P10914,3659,P04020,Human papillomavirus type 11,10580,1
+PPP2R1A,P30153,5518,P04020,Human papillomavirus type 11,10580,1
+PPP2CA,P67775,5515,P04020,Human papillomavirus type 11,10580,1
+PKM,P14618,5315,P04020,Human papillomavirus type 11,10580,1
+CSNK2A1,P68400,1457,P06464,Human papillomavirus type 6b,10600,1
+RB1,P06400,5925,P06464,Human papillomavirus type 6b,10600,1
+KAT2B,Q92831,8850,P06464,Human papillomavirus type 6b,10600,1
+DNAJA3,Q96EY1,9093,P06464,Human papillomavirus type 6b,10600,1
+CDKN1A,P38936,1026,P06464,Human papillomavirus type 6b,10600,1
+UBR4,Q5T4S7,23352,P06464,Human papillomavirus type 6b,10600,1
+E2F1,Q01094,1869,P06464,Human papillomavirus type 6b,10600,1
+CCNE1,P24864,898,P06788,Human papillomavirus type 18,333761,1
+TGM2,P21980,7052,P06788,Human papillomavirus type 18,333761,1
+CCNA2,P20248,890,P06788,Human papillomavirus type 18,333761,1
+CDK2,P24941,1017,P06788,Human papillomavirus type 18,333761,1
+CSNK2A1,P68400,1457,P06788,Human papillomavirus type 18,333761,1
+RBL1,P28749,5933,P06788,Human papillomavirus type 18,333761,1
+RB1,P06400,5925,P06788,Human papillomavirus type 18,333761,1
+KAT2B,Q92831,8850,P06788,Human papillomavirus type 18,333761,1
+E2F1,Q01094,1869,P06788,Human papillomavirus type 18,333761,1
+MYC,P01106,4609,P06788,Human papillomavirus type 18,333761,1
+RBL2,Q08999,5934,A0MPS7,Human papillomavirus type 16,333760,1
+RBL1,P28749,5933,A0MPS7,Human papillomavirus type 16,333760,1
+RB1,P06400,5925,A0MPS7,Human papillomavirus type 16,333760,1
+RB1,P06400,5925,P03256,Human adenovirus 7,10519,1
+RB1,P06400,5925,P12533,Murine adenovirus 1,10530,1
+HDAC1,Q13547,3065,P17387,Human papillomavirus type 31,10585,1
+RB1,P06400,5925,P17387,Human papillomavirus type 31,10585,1
+HDAC2,Q92769,3066,P17387,Human papillomavirus type 31,10585,1
+YY1,P25490,7528,Q8JSK4,Human adenovirus B serotype 3,45659,1
+POU5F1,Q01860,5460,Q8JSK4,Human adenovirus B serotype 3,45659,1
+RB1,P06400,5925,Q8JSK4,Human adenovirus B serotype 3,45659,1
+TBP,P20226,6908,Q8JSK4,Human adenovirus B serotype 3,45659,1
+TBP,P20226,6908,Q6JGG5,Human adenovirus 31,10529,1
+RAN,P62826,5901,P03254,Human adenovirus 2,10515,1
+TBP,P20226,6908,P03254,Human adenovirus 2,10515,1
+ATF1,P18846,466,P03259-2,Human adenovirus 12,28282,1
+PRKAR1A,P10644,5573,P03259-2,Human adenovirus 12,28282,1
+PRKAR2A,P13861,5576,P03259-2,Human adenovirus 12,28282,1
+PRKAR2B,P31323,5577,P03259-2,Human adenovirus 12,28282,1
+CREB1,P16220,1385,P03259-2,Human adenovirus 12,28282,1
+CREBBP,Q92793,1387,P03259-2,Human adenovirus 12,28282,1
+TOP1,P11387,7150,P03081,Simian virus 40,10633,1
+PPP2R1A,P30153,5518,P03081,Simian virus 40,10633,1
+PPP2CA,P67775,5515,P03081,Simian virus 40,10633,1
+PPP2R1B,P30154,5519,P03081,Simian virus 40,10633,1
+PPP2CA,P67775,5515,P03076,Murine polyomavirus (strain 3),10635,1
+PPP2CA,P67775,5515,P68834,Murine polyomavirus (strain 3),10635,1
+PPP2CA,P67775,5515,P00524,Rous sarcoma virus (strain Schmidt-Ruppin A),269446,1
+HSP90AA1,P07900,3320,P26664,Hepatitis C virus genotype 1a (isolate 1),11104,1
+STAT1,P42224,6772,P26664,Hepatitis C virus genotype 1a (isolate 1),11104,1
+BAD,Q92934,572,P17361,Vaccinia virus (strain Western Reserve / WR),10254,1
+BAX,Q07812,581,P17361,Vaccinia virus (strain Western Reserve / WR),10254,1
+BID,P55957,637,P17361,Vaccinia virus (strain Western Reserve / WR),10254,1
+BCL2L11,O43521,10018,P17361,Vaccinia virus (strain Western Reserve / WR),10254,1
+BAD,Q92934,572,P68451,Vaccinia virus (strain L-IVP),31531,1
+BAX,Q07812,581,P68451,Vaccinia virus (strain L-IVP),31531,1
+BID,P55957,637,P68451,Vaccinia virus (strain L-IVP),31531,1
+BCL2L11,O43521,10018,P68451,Vaccinia virus (strain L-IVP),31531,1
+PMAIP1,Q13794,5366,P68451,Vaccinia virus (strain L-IVP),31531,1
+BBC3,Q9BXH1,27113,P68451,Vaccinia virus (strain L-IVP),31531,1
+BAK1,Q16611,578,P68451,Vaccinia virus (strain L-IVP),31531,1
+BAK1,Q16611,578,P24356,Vaccinia virus (strain Western Reserve / WR),10254,1
+PTPN3,P26045,5774,Q77E16,Human papillomavirus type 16,333760,1
+UBE3A,Q05086,7337,Q77E16,Human papillomavirus type 16,333760,1
+UBE3A,Q05086,7337,P06933,Bovine papillomavirus type 1,10559,1
+MAGI1,Q96QZ7,9223,P06931,Bovine papillomavirus type 1,10559,1
+DLG1,Q12959,1739,P06931,Bovine papillomavirus type 1,10559,1
+UBE3A,Q05086,7337,P06931,Bovine papillomavirus type 1,10559,1
+FBLN1,P23142,2192,P06931,Bovine papillomavirus type 1,10559,1
+RCN2,Q14257,5955,P06931,Bovine papillomavirus type 1,10559,1
+PXN,P49023,5829,P06931,Bovine papillomavirus type 1,10559,1
+TP53,P04637,7157,P17386,Human papillomavirus type 31,10585,1
+MAGI1,Q96QZ7,9223,P17386,Human papillomavirus type 31,10585,1
+DLG1,Q12959,1739,P17386,Human papillomavirus type 31,10585,1
+UBE3A,Q05086,7337,P17386,Human papillomavirus type 31,10585,1
+FBLN1,P23142,2192,P17386,Human papillomavirus type 31,10585,1
+RCN2,Q14257,5955,P17386,Human papillomavirus type 31,10585,1
+DLG1,Q12959,1739,P36799,Human papillomavirus type 3,10614,1
+UBE3A,Q05086,7337,P36799,Human papillomavirus type 3,10614,1
+DLG1,Q12959,1739,O57125,Cottontail rabbit papillomavirus,10623,1
+DLG1,Q12959,1739,Q4ZGA4,Human T-lymphotropic virus 1,11908,1
+DLG1,Q12959,1739,Q9QNP8,Human papillomavirus type 18,333761,1
+DLG1,Q12959,1739,Q9WH13,Human papillomavirus type 16,333760,1
+DLG1,Q12959,1739,Q9ICL1,Cottontail rabbit papillomavirus,10623,1
+DLG1,Q12959,1739,P89079,Human adenovirus 9,10527,1
+MAGI1,Q96QZ7,9223,P03127,Cottontail rabbit papillomavirus (strain Kansas),31553,1
+DLG1,Q12959,1739,P03127,Cottontail rabbit papillomavirus (strain Kansas),31553,1
+GPS2,Q13227,2874,P06428,Human papillomavirus type 8,10579,1
+XRCC1,P18887,7515,P06428,Human papillomavirus type 8,10579,1
+MAGI1,Q96QZ7,9223,P06428,Human papillomavirus type 8,10579,1
+DLG1,Q12959,1739,P06428,Human papillomavirus type 8,10579,1
+GPS2,Q13227,2874,P06929,Human papillomavirus type 1a,10583,1
+XRCC1,P18887,7515,P06929,Human papillomavirus type 1a,10583,1
+CREBBP,Q92793,1387,P03126,Human papillomavirus type 16,333760,1
+EP300,Q09472,2033,P03126,Human papillomavirus type 16,333760,1
+MYC,P01106,4609,P03126,Human papillomavirus type 16,333760,1
+SERTAD1,Q9UHV2,29950,P03126,Human papillomavirus type 16,333760,1
+TP53,P04637,7157,P03126,Human papillomavirus type 16,333760,1
+BAK1,Q16611,578,P03126,Human papillomavirus type 16,333760,1
+MCM7,P33993,4176,P03126,Human papillomavirus type 16,333760,1
+GPS2,Q13227,2874,P03126,Human papillomavirus type 16,333760,1
+XRCC1,P18887,7515,P03126,Human papillomavirus type 16,333760,1
+SCRIB,Q14160,23513,P03126,Human papillomavirus type 16,333760,1
+TAX1BP3,O14907,30851,P03126,Human papillomavirus type 16,333760,1
+IRF3,Q14653,3661,P03126,Human papillomavirus type 16,333760,1
+TSC2,P49815,7249,P03126,Human papillomavirus type 16,333760,1
+TNFRSF1A,P19438,7132,P03126,Human papillomavirus type 16,333760,1
+SIPA1L1,O43166,26037,P03126,Human papillomavirus type 16,333760,1
+FADD,Q13158,8772,P03126,Human papillomavirus type 16,333760,1
+TP73,O15350,7161,P03126,Human papillomavirus type 16,333760,1
+MAGI1,Q96QZ7,9223,P03126,Human papillomavirus type 16,333760,1
+DLG1,Q12959,1739,P03126,Human papillomavirus type 16,333760,1
+UBE3A,Q05086,7337,P03126,Human papillomavirus type 16,333760,1
+FBLN1,P23142,2192,P03126,Human papillomavirus type 16,333760,1
+RCN2,Q14257,5955,P03126,Human papillomavirus type 16,333760,1
+TNPO1,Q92973,3842,P03126,Human papillomavirus type 16,333760,1
+KPNB1,Q14974,3837,P03126,Human papillomavirus type 16,333760,1
+KPNA2,P52292,3838,P03126,Human papillomavirus type 16,333760,1
+BRCA1,P38398,672,P03126,Human papillomavirus type 16,333760,1
+EP300,Q09472,2033,P06463,Human papillomavirus type 18,333761,1
+TBP,P20226,6908,P06463,Human papillomavirus type 18,333761,1
+PTPN3,P26045,5774,P06463,Human papillomavirus type 18,333761,1
+GIPC1,O14908,10755,P06463,Human papillomavirus type 18,333761,1
+GOPC,Q9HD26,57120,P06463,Human papillomavirus type 18,333761,1
+TYK2,P29597,7297,P06463,Human papillomavirus type 18,333761,1
+TP53,P04637,7157,P06463,Human papillomavirus type 18,333761,1
+BAK1,Q16611,578,P06463,Human papillomavirus type 18,333761,1
+MCM7,P33993,4176,P06463,Human papillomavirus type 18,333761,1
+GPS2,Q13227,2874,P06463,Human papillomavirus type 18,333761,1
+SCRIB,Q14160,23513,P06463,Human papillomavirus type 18,333761,1
+TAX1BP3,O14907,30851,P06463,Human papillomavirus type 18,333761,1
+MAGI1,Q96QZ7,9223,P06463,Human papillomavirus type 18,333761,1
+DLG1,Q12959,1739,P06463,Human papillomavirus type 18,333761,1
+UBE3A,Q05086,7337,P06463,Human papillomavirus type 18,333761,1
+FBLN1,P23142,2192,P06463,Human papillomavirus type 18,333761,1
+EP300,Q09472,2033,P04019,Human papillomavirus type 11,10580,1
+SERTAD1,Q9UHV2,29950,P04019,Human papillomavirus type 11,10580,1
+TYK2,P29597,7297,P04019,Human papillomavirus type 11,10580,1
+TP53,P04637,7157,P04019,Human papillomavirus type 11,10580,1
+BAK1,Q16611,578,P04019,Human papillomavirus type 11,10580,1
+MCM7,P33993,4176,P04019,Human papillomavirus type 11,10580,1
+GPS2,Q13227,2874,P04019,Human papillomavirus type 11,10580,1
+TP73,O15350,7161,P04019,Human papillomavirus type 11,10580,1
+MAGI1,Q96QZ7,9223,P04019,Human papillomavirus type 11,10580,1
+DLG1,Q12959,1739,P04019,Human papillomavirus type 11,10580,1
+UBE3A,Q05086,7337,P04019,Human papillomavirus type 11,10580,1
+CREBBP,Q92793,1387,P06462,Human papillomavirus type 6b,10600,1
+EP300,Q09472,2033,P06462,Human papillomavirus type 6b,10600,1
+SERTAD1,Q9UHV2,29950,P06462,Human papillomavirus type 6b,10600,1
+ZYX,Q15942,7791,P06462,Human papillomavirus type 6b,10600,1
+MCM7,P33993,4176,P06462,Human papillomavirus type 6b,10600,1
+GPS2,Q13227,2874,P06462,Human papillomavirus type 6b,10600,1
+MAGI1,Q96QZ7,9223,P06462,Human papillomavirus type 6b,10600,1
+DLG1,Q12959,1739,P06462,Human papillomavirus type 6b,10600,1
+MCM7,P33993,4176,P26555,Human papillomavirus type 58,10598,1
+DAXX,Q9UER7,1616,P03244,Human adenovirus 2,10515,1
+TP53,P04637,7157,P03244,Human adenovirus 2,10515,1
+DAXX,Q9UER7,1616,P04491,Human adenovirus 12,28282,1
+DAXX,Q9UER7,1616,P03243,Human adenovirus 5,28285,1
+CTBP1,Q13363,1487,Q69140,Epstein-Barr virus (strain GD1),10376,1
+E4F1,Q66K89,1877,Q64770,Fowl adenovirus 1 (strain CELO / Phelps),10553,1
+HDAC1,Q13547,3065,Q64770,Fowl adenovirus 1 (strain CELO / Phelps),10553,1
+E4F1,Q66K89,1877,Q8V1H6,Hepatitis B virus,10407,1
+MKRN1,Q9UHC7,23608,Q8V1H6,Hepatitis B virus,10407,1
+DDB1,Q16531,1642,Q8V1H6,Hepatitis B virus,10407,1
+L3MBTL3,Q96JM7,84456,Q8V1H6,Hepatitis B virus,10407,1
+DDB1,Q16531,1642,P11207,Simian virus 5 (strain W3),11208,1
+STAT2,P52630,6773,P11207,Simian virus 5 (strain W3),11208,1
+LMNA,P02545,4000,P10215,Human herpesvirus 1 (strain 17),10299,1
+LMNA,P02545,4000,P10218,Human herpesvirus 1 (strain 17),10299,1
+NAP1L1,P55209,4673,P04296,Human herpesvirus 1 (strain 17),10299,1
+PARP1,P09874,142,P04296,Human herpesvirus 1 (strain 17),10299,1
+LMNA,P02545,4000,P04296,Human herpesvirus 1 (strain 17),10299,1
+ADNP,Q9H2P0,23394,P04296,Human herpesvirus 1 (strain 17),10299,1
+SF3B3,Q15393,23450,P04296,Human herpesvirus 1 (strain 17),10299,1
+DDX42,Q86XP3,11325,P04296,Human herpesvirus 1 (strain 17),10299,1
+IMPDH2,P12268,3615,P04296,Human herpesvirus 1 (strain 17),10299,1
+XRCC6,P12956,2547,P04296,Human herpesvirus 1 (strain 17),10299,1
+XRCC4,Q13426,7518,P04296,Human herpesvirus 1 (strain 17),10299,1
+PCNA,P12004,5111,P04296,Human herpesvirus 1 (strain 17),10299,1
+DEK,P35659,7913,P04296,Human herpesvirus 1 (strain 17),10299,1
+POLR1A,O95602,25885,P04296,Human herpesvirus 1 (strain 17),10299,1
+WRN,Q14191,7486,P04296,Human herpesvirus 1 (strain 17),10299,1
+PRKDC,P78527,5591,P04296,Human herpesvirus 1 (strain 17),10299,1
+PRPF19,Q9UMS4,27339,P04296,Human herpesvirus 1 (strain 17),10299,1
+MSH3,P20585,4437,P04296,Human herpesvirus 1 (strain 17),10299,1
+MCM2,P49736,4171,P04296,Human herpesvirus 1 (strain 17),10299,1
+RBBP4,Q09028,5928,P04296,Human herpesvirus 1 (strain 17),10299,1
+EMD,P50402,2010,P04296,Human herpesvirus 1 (strain 17),10299,1
+CHD3,Q12873,1107,P04296,Human herpesvirus 1 (strain 17),10299,1
+MRE11A,P49959,4361,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCA1,P28370,6594,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCD1,Q96GM5,6602,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCE1,Q969G3,6605,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMC1A,Q14683,8243,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCA5,O60264,8467,P04296,Human herpesvirus 1 (strain 17),10299,1
+MSH6,P52701,2956,P04296,Human herpesvirus 1 (strain 17),10299,1
+RCOR1,Q9UKL0,23186,P04296,Human herpesvirus 1 (strain 17),10299,1
+BLM,P54132,641,P04296,Human herpesvirus 1 (strain 17),10299,1
+BTAF1,O14981,9044,P04296,Human herpesvirus 1 (strain 17),10299,1
+MSH2,P43246,4436,P04296,Human herpesvirus 1 (strain 17),10299,1
+GTF2I,P78347,2969,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCA4,P51532,6597,P04296,Human herpesvirus 1 (strain 17),10299,1
+SUPT16H,Q9Y5B9,11198,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCC2,Q8TAQ2,6601,P04296,Human herpesvirus 1 (strain 17),10299,1
+SMARCC1,Q92922,6599,P04296,Human herpesvirus 1 (strain 17),10299,1
+PPP1CA,P62136,5499,P04296,Human herpesvirus 1 (strain 17),10299,1
+HDAC2,Q92769,3066,P04296,Human herpesvirus 1 (strain 17),10299,1
+BRCA1,P38398,672,P04296,Human herpesvirus 1 (strain 17),10299,1
+USP7,Q93009,7874,P04296,Human herpesvirus 1 (strain 17),10299,1
+RUVBL1,Q9Y265,8607,P04296,Human herpesvirus 1 (strain 17),10299,1
+SYNCRIP,O60506,10492,P04296,Human herpesvirus 1 (strain 17),10299,1
+XRCC5,P13010,7520,P04296,Human herpesvirus 1 (strain 17),10299,1
+SF3B1,O75533,23451,P04296,Human herpesvirus 1 (strain 17),10299,1
+RAD50,Q92878,10111,P04296,Human herpesvirus 1 (strain 17),10299,1
+PPP1CA,P62136,5499,P36313,Human herpesvirus 1 (strain 17),10299,1
+PPP1CA,P62136,5499,P30119,Epstein-Barr virus (strain B95-8),10377,1
+USP7,Q93009,7874,P08393,Human herpesvirus 1 (strain 17),10299,1
+SH3KBP1,Q96B97,30011,P08393,Human herpesvirus 1 (strain 17),10299,1
+HDAC3,O15379,8841,P08393,Human herpesvirus 1 (strain 17),10299,1
+HDAC4,P56524,9759,P08393,Human herpesvirus 1 (strain 17),10299,1
+HDAC7,Q8WUI4,51564,P08393,Human herpesvirus 1 (strain 17),10299,1
+HDAC5,Q9UQL6,10014,P08393,Human herpesvirus 1 (strain 17),10299,1
+CCND3,P30281,896,P08393,Human herpesvirus 1 (strain 17),10299,1
+CBL,P22681,867,P08393,Human herpesvirus 1 (strain 17),10299,1
+ARHGEF10L,Q9HCE6,55160,P29882,Epstein-Barr virus (strain B95-8),10377,1
+PICK1,Q9NRD5,9463,P29882,Epstein-Barr virus (strain B95-8),10377,1
+CSNK2A1,P68400,1457,P03211,Epstein-Barr virus (strain B95-8),10377,1
+NAP1L1,P55209,4673,P03211,Epstein-Barr virus (strain B95-8),10377,1
+PICK1,Q9NRD5,9463,P03211,Epstein-Barr virus (strain B95-8),10377,1
+KPNA1,P52294,3836,P03211,Epstein-Barr virus (strain B95-8),10377,1
+KPNA2,P52292,3838,P03211,Epstein-Barr virus (strain B95-8),10377,1
+USP7,Q93009,7874,P03211,Epstein-Barr virus (strain B95-8),10377,1
+SRSF1,Q07955,6426,P03211,Epstein-Barr virus (strain B95-8),10377,1
+C1QBP,Q07021,708,P03211,Epstein-Barr virus (strain B95-8),10377,1
+TERF2,Q15554,7014,P03211,Epstein-Barr virus (strain B95-8),10377,1
+ORC2,Q13416,4999,P03211,Epstein-Barr virus (strain B95-8),10377,1
+MDFI,Q99750,4188,P03211,Epstein-Barr virus (strain B95-8),10377,1
+CSNK2A2,P19784,1459,P03211,Epstein-Barr virus (strain B95-8),10377,1
+EBNA1BP2,Q99848,10969,P03211,Epstein-Barr virus (strain B95-8),10377,1
+TSG101,Q99816,7251,P03211,Epstein-Barr virus (strain B95-8),10377,1
+KPNB1,Q14974,3837,O92837,Simian virus 40,10633,1
+KPNA2,P52292,3838,O92837,Simian virus 40,10633,1
+SP1,P08047,6667,O92837,Simian virus 40,10633,1
+PARP1,P09874,142,O92837,Simian virus 40,10633,1
+KPNB1,Q14974,3837,P03087,Simian virus 40,10633,1
+KPNA2,P52292,3838,P03087,Simian virus 40,10633,1
+SP1,P08047,6667,P03087,Simian virus 40,10633,1
+PARP1,P09874,142,P03087,Simian virus 40,10633,1
+IPO5,O00410,3843,P03101,Human papillomavirus type 16,333760,1
+TNPO1,Q92973,3842,P03101,Human papillomavirus type 16,333760,1
+KPNB1,Q14974,3837,P03101,Human papillomavirus type 16,333760,1
+KPNA2,P52292,3838,P03101,Human papillomavirus type 16,333760,1
+IPO5,O00410,3843,P04012,Human papillomavirus type 11,10580,1
+TNPO1,Q92973,3842,P04012,Human papillomavirus type 11,10580,1
+KPNA2,P52292,3838,P04012,Human papillomavirus type 11,10580,1
+TNPO1,Q92973,3842,P36741,Human papillomavirus type 45,10593,1
+PATZ1,Q9HBE1,23598,P03107,Human papillomavirus type 16,333760,1
+TINAGL1,Q9GZM7,64129,P03107,Human papillomavirus type 16,333760,1
+MAN2B1,O00754,4125,P03107,Human papillomavirus type 16,333760,1
+GADD45GIP1,Q8TAE8,90480,P03107,Human papillomavirus type 16,333760,1
+IPO5,O00410,3843,P03107,Human papillomavirus type 16,333760,1
+TNPO1,Q92973,3842,P03107,Human papillomavirus type 16,333760,1
+KPNB1,Q14974,3837,P03107,Human papillomavirus type 16,333760,1
+KPNA2,P52292,3838,P03107,Human papillomavirus type 16,333760,1
+PATZ1,Q9HBE1,23598,P04013,Human papillomavirus type 11,10580,1
+TINAGL1,Q9GZM7,64129,P04013,Human papillomavirus type 11,10580,1
+MAN2B1,O00754,4125,P04013,Human papillomavirus type 11,10580,1
+GADD45GIP1,Q8TAE8,90480,P04013,Human papillomavirus type 11,10580,1
+PATZ1,Q9HBE1,23598,P03105,Human papillomavirus type 1a,10583,1
+TINAGL1,Q9GZM7,64129,P03105,Human papillomavirus type 1a,10583,1
+PML,P29590,5371,P04489,Human adenovirus 5,28285,1
+RPA2,P15927,6118,P04489,Human adenovirus 5,28285,1
+RPA2,P15927,6118,P03265,Human adenovirus 5,28285,1
+ATR,Q13535,545,P03265,Human adenovirus 5,28285,1
+ATRIP,Q8WXE1,84126,P03265,Human adenovirus 5,28285,1
+GZMB,P10144,3002,P03265,Human adenovirus 5,28285,1
+TOPBP1,Q92547,11073,P03265,Human adenovirus 5,28285,1
+JUND,P17535,3727,Q7LYY4,Human T-lymphotropic virus 1,11908,1
+ENOX2,Q16206,10495,P03206,Epstein-Barr virus (strain B95-8),10377,1
+GPRASP1,Q5JY77,9737,P03206,Epstein-Barr virus (strain B95-8),10377,1
+ARMCX5-GPRASP2,Q96D09,100528062,P03219,Epstein-Barr virus (strain B95-8),10377,1
+TSC22D4,Q9Y3Q8,81628,P03219,Epstein-Barr virus (strain B95-8),10377,1
+ENOX2,Q16206,10495,P03219,Epstein-Barr virus (strain B95-8),10377,1
+GPRASP1,Q5JY77,9737,P03219,Epstein-Barr virus (strain B95-8),10377,1
+RABAC1,Q9UI14,10567,P03230,Epstein-Barr virus (strain B95-8),10377,1
+TRADD,Q15628,8717,P03230,Epstein-Barr virus (strain B95-8),10377,1
+ZMYND11,Q15326,10771,P03230,Epstein-Barr virus (strain B95-8),10377,1
+EGFL7,Q9UHF1,51162,P03230,Epstein-Barr virus (strain B95-8),10377,1
+TRAF2,Q12933,7186,P88961,Human herpesvirus 8,37296,1
+IKBKG,Q9Y6K9,8517,P88961,Human herpesvirus 8,37296,1
+HLA-A,P30443,3105,P06927,Human papillomavirus type 16,333760,1
+ATP6V0A1,Q53X12,535,P06927,Human papillomavirus type 16,333760,1
+GRN,P28799,2896,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+CCHCR1,Q8TD31,54535,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+GAPDH,P04406,2597,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+HLA-B,P01889,3106,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+IGLL1,P15814,3543,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+NUCB2,P80303,4925,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+CIR1,Q86X95,9541,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+RPL3,P39023,6122,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+CERS4,Q9HA82,79603,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+HBB,P68871,3043,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+CD74,P04233,972,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+HLA-A,P30443,3105,Q1HVH9,Epstein-Barr virus (strain GD1),10376,1
+DNAJA3,Q96EY1,9093,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TAF1,P21675,6872,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NAP1L1,P55209,4673,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+JUN,P05412,3725,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PKM,P14618,5315,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ACTN1,P12814,87,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SERTAD1,Q9UHV2,29950,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PICK1,Q9NRD5,9463,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KPNA1,P52294,3836,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DDX3X,O00571,1654,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LMNB1,P20700,4001,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SLIT2,O94813,9353,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+STAT3,P40763,6774,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GNB2,P62879,2783,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GLYR1,Q49A26,84656,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GOLGA2,Q08379,2801,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GON4L,Q3T8J9,54856,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GIN1,Q9NXP7,54826,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GFAP,P14136,2670,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+HIVEP2,P31629,3097,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+HOXD8,P13378,3234,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GBP2,P32456,2634,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+HSFX2,Q9UBD0,100130086,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+INF2,Q27J81,64423,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+INO80E,Q8NBZ0,283899,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GAA,P10253,2548,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ITGAL,P20701,3683,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ITGB1,P05556,3688,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FXYD6-FXYD2,Q9H0Q3,100533181,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FUCA2,Q9BTY2,2519,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FTH1,P02794,2495,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FRS3,O43559,10817,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FRMPD4,Q14CM0,9758,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+JAG2,Q9Y219,3714,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KANSL2,Q9H9L4,54934,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KIAA1549,Q9HCM3,57670,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KIAA2022,Q5QGS0,340533,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FLAD1,Q8NFF5,80308,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KIF17,Q9P2E2,57576,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KIF7,Q2M1P5,374654,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FIGNL1,Q6PIW4,63979,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FHL2,Q14192,2274,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FES,P07332,2242,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LAMA5,O15230,3911,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LAMC3,Q9Y6N6,10319,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LDB1,Q86U70,8861,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBN3,Q75N90,84467,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBN1,P35555,2200,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LIMS2,Q7Z4I7,55679,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LPXN,O60711,9404,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LRRC7,Q96NW7,57554,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBF1,Q8TES7,85302,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FAM65A,Q6ZS17,79567,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FAM208B,Q5VWN6,54906,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FAM178A,Q8IX21,55719,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LRRCC1,Q9C099,85444,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FAM135A,Q9P2D6,57579,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FAM120B,Q96EK7,84498,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LRRTM1,Q86UE6,347730,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MEGF6,O75095,1953,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MEGF8,Q7Z7M0,1954,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MLLT4,P55196,4301,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MLXIP,Q9HAP2,22877,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MOB1A,Q9H8S9,55233,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MORC4,Q8TE76,79710,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ELAC2,Q9BQ52,60528,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EIF4ENIF1,Q9NRA8,56478,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MORF4L1,Q9UBU8,10933,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MSANTD3,Q96H12,91283,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EIF1,P41567,10209,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MVP,Q14764,9961,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NAP1L2,Q9ULW6,4674,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NCAN,O14594,1463,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EEF1A1,P68104,1915,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NDC80,O14777,10403,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NEFL,P07196,4747,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NEFM,P07197,4741,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NELL1,Q92832,4745,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NELL2,Q99435,4753,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NFE2,Q16621,4778,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NID1,P14543,4811,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NID2,Q14112,22795,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DPP7,Q9UHL4,29952,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DPF1,Q92782,8193,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DOCK7,Q96N67,85440,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NOTCH1,P46531,4851,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+AEBP1,Q8IUX7,165,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NUP62,P37198,23636,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+OBSCN,Q5VST9,84033,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PABPN1,Q86U42,8106,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DLAT,P10515,1737,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PAK4,O96013,10298,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PARVG,Q9HBI0,64098,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DES,P17661,1674,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PCYT2,Q99447,5833,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DEAF1,O75398,10522,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PDE4DIP,Q5VU43,9659,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PDLIM5,Q96HC4,10611,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DDX3Y,O15523,8653,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PFN1,P07737,5216,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PKNOX1,P55347,5316,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PLEKHG4,Q58EX7,25894,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+DCAF6,Q58WW2,55827,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PMVK,Q15126,10654,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PNPLA8,Q9NP80,50640,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+POU3F2,P20265,5454,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PPP1R13L,Q8WUF5,10848,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CTGF,P29279,1490,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PRRC1,Q96M27,133619,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PSMA6,P60900,5687,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PSMB9,P28065,5698,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+AGRN,O00468,375790,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PTPRN2,Q92932,5799,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RABEP1,Q15276,9135,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CREB3,O43889,10488,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RAI14,Q9P0K7,26064,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+COX3,P00414,4514,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CORO1B,Q9BR76,57175,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+COL4A2,P08572,1284,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RASAL2,Q9UJF2,9462,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RBM4,Q9BWF3,5936,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RCN3,Q96D15,57333,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RINT1,Q6NUQ1,60561,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CHPF,Q8IZ52,79586,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ROGDI,Q9GZN7,79641,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RPL18A,Q02543,6142,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CFP,P27918,5199,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RRBP1,Q9P2E9,6238,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP85,Q6P2H3,64793,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP68,Q76N32,23177,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP63,Q96MT8,80254,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP250,Q9BV73,11190,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP152,O94986,22995,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CEP120,Q8N960,153241,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CENPC,Q03188,1060,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CELSR2,Q9HCU4,1952,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RSPH3,Q86UC2,83861,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RUSC2,Q8N2Y8,9853,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SBF1,O95248,6305,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SDCCAG8,Q86SQ7,10806,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SECISBP2,Q96T21,79048,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+Sep-10,Q9P0V9,151011,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SESTD1,Q86VW0,91404,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CDC23,Q9UJX2,8697,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SETD2,Q9BYW2,29072,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CD68,P34810,968,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SHARPIN,Q9H0F6,81858,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SIAH1,Q8IUQ4,6477,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SLC31A2,O15432,1318,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SLIT1,O75093,6585,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SMEK2,Q5MIZ7,57223,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SMURF2,Q9HAU4,64750,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SMYD3,Q9H7B4,64754,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SORBS2,O94875,8470,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SORBS3,O60504,10174,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SPICE1,Q8N0Z3,152185,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SPOCK3,Q9BQ16,50859,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SPON1,Q9HCB6,10418,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SRPX2,O60687,27286,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SRRT,Q9BXP5,51593,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CCDC66,A2RUB6,285331,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CCDC37,Q494V2,348807,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SSX2IP,Q9Y2D8,117178,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CBY1,Q9Y3M2,25776,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+STAB1,Q9NY15,23166,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SYNE1,Q8NF91,23345,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SYNPO2,Q9UMS6,171024,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TBC1D2B,Q9UPU7,23102,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TBXAS1,P24557,6916,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TGFB1I1,O43294,7041,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+THAP1,Q9NVV9,55145,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CALCOCO2,Q13137,10241,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CADPS2,Q86UW7,93664,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CADPS,Q9ULU8,8618,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+THBS1,P07996,7057,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+C7,P10643,730,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+C1orf94,Q6P1W5,84970,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TMEM179B,Q7Z7N9,374395,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+C19orf66,Q9NUL5,55337,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BZRAP1,O95153,9256,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TMEM63B,Q5T3F8,55362,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TMF1,P82094,7110,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TMSB4X,P62328,7114,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TP53BP2,Q13625,7159,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ACTN2,P35609,88,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRIM23,P36406,373,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRIM27,P14373,5987,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRIO,O75962,7204,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BIN1,O00499,274,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRIOBP,Q9H2D6,11078,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BEND7,Q8N7W2,222389,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BEND5,Q7L4P6,79656,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BCL6,P41182,604,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRIP11,Q15643,9321,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BCL2A1,Q16548,597,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BCKDK,O14874,10295,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BCAR1,P56945,9564,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+BCAN,Q96GW7,63827,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TUBB4B,P68371,10383,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UBA3,Q8TBC4,9039,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UBASH3A,P57075,53347,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UBQLN1,Q9UMX0,29979,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UBQLN4,Q9NRR5,56893,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+USHBP1,Q8N6Y0,83878,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+B2M,P61769,567,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+AXIN1,O15169,8312,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+USP19,O94966,10869,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UXT,Q9UBK9,8409,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+VCAN,P13611,1462,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+VPS52,Q8N1B4,6293,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+VPS9D1,Q9Y2B5,9605,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+XAB2,Q9HCS7,56949,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ASXL1,Q8IXJ9,171023,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+XRN2,Q9H0D6,22803,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ARHGEF6,Q15052,9459,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ARHGEF28,Q8N1W1,64283,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+YY1AP1,Q9H869,55249,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ARFIP2,P53365,23647,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ARFIP1,P53367,27236,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZBTB1,Q9Y2K1,22890,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZCCHC7,Q8N3Z6,84186,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZHX3,Q9H4I2,23051,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ANKRD28,O15084,23243,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ANKRD12,Q6UB98,23253,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZMYM2,Q9UBW7,7750,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ALG13,Q9NP73,79868,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZNF281,Q9Y2X9,23528,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZNF410,Q86VK4,57862,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZNF646,O15015,9726,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ZZZ3,Q8IYH5,26009,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+ACLY,P53396,47,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+L3MBTL3,Q96JM7,84456,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+KHDRBS1,Q07666,10657,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SF3B2,Q13435,10992,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MAGED1,Q9Y5V3,9500,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+HNRNPK,P61978,3190,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PSME3,P61289,10197,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+RNF31,Q96EP0,55072,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MMRN2,Q9H8L6,79812,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EFEMP1,Q12805,2202,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PLSCR1,O15162,5359,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SNX4,O95219,8723,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+PARP4,Q9UKK3,143,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LZTS2,Q9BRK4,84445,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+VIM,P08670,7431,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FN1,P02751,2335,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LTBP4,Q8N2S1,8425,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GRN,P28799,2896,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+VWF,P04275,7450,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+SLIT3,O75094,6586,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+HOMER3,Q9NSC5,9454,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EGFL7,Q9UHF1,51162,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBLN2,P98095,2199,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TRAF3IP3,Q9Y228,80342,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+TXNDC11,Q6PKC3,51061,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+LAMB2,P55268,3913,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NUCB1,Q02818,4924,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+EFEMP2,O95967,30008,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBLN5,Q9UBX5,10516,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+NR4A1,P22736,3164,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CSNK2B,P67870,1460,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+MAPK7,Q13164,5598,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CCHCR1,Q8TD31,54535,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GAPDH,P04406,2597,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+CD5L,O43866,922,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+GPS2,Q13227,2874,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+FBLN1,P23142,2192,Q9WMX2,Hepatitis C virus genotype 1b (isolate Con1),333284,1
+UBE2I,P63279,7329,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+ACTN1,P12814,87,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+EFEMP1,Q12805,2202,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+PLSCR1,O15162,5359,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+LTBP4,Q8N2S1,8425,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+GRN,P28799,2896,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+BAG6,P46379,7917,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+TSNARE1,Q96NA8,203062,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+CASKIN2,Q8WXE0,57513,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+RBPMS,Q93062,11030,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+DKK3,Q9UBP4,27122,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+MARCO,Q9UEW3,8685,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+EGFL7,Q9UHF1,51162,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+FBLN2,P98095,2199,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+TRAF3IP3,Q9Y228,80342,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+TXNDC11,Q6PKC3,51061,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+LAMB2,P55268,3913,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+NUCB1,Q02818,4924,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+EFEMP2,O95967,30008,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+FBLN5,Q9UBX5,10516,Q777G9,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,P03215,Epstein-Barr virus (strain GD1),10376,1
+NUCB1,Q02818,4924,P03215,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,P03212,Epstein-Barr virus (strain B95-8),10377,1
+HOMER3,Q9NSC5,9454,Q777C5,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,P0C6Z3,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,P03200,Epstein-Barr virus (strain B95-8),10377,1
+OPTN,Q96CV9,10133,Q777C8,Epstein-Barr virus (strain GD1),10376,1
+SHROOM3,Q8TF72,57619,Q777C8,Epstein-Barr virus (strain GD1),10376,1
+TUBA1A,Q71U36,7846,Q777C8,Epstein-Barr virus (strain GD1),10376,1
+RBCK1,Q9BYM8,10616,Q777C8,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,Q777C8,Epstein-Barr virus (strain GD1),10376,1
+LMNB1,P20700,4001,P03208,Epstein-Barr virus (strain B95-8),10377,1
+SLIT2,O94813,9353,P03208,Epstein-Barr virus (strain B95-8),10377,1
+GRN,P28799,2896,P03208,Epstein-Barr virus (strain B95-8),10377,1
+VWF,P04275,7450,P03208,Epstein-Barr virus (strain B95-8),10377,1
+HOMER3,Q9NSC5,9454,P03208,Epstein-Barr virus (strain B95-8),10377,1
+GRN,P28799,2896,Q1HVI2,Epstein-Barr virus (strain GD1),10376,1
+VWF,P04275,7450,Q1HVI2,Epstein-Barr virus (strain GD1),10376,1
+SLIT3,O75094,6586,Q1HVI2,Epstein-Barr virus (strain GD1),10376,1
+PRMT1,Q99873,3276,Q1HVI2,Epstein-Barr virus (strain GD1),10376,1
+HOMER3,Q9NSC5,9454,Q1HVI2,Epstein-Barr virus (strain GD1),10376,1
+GRN,P28799,2896,P03205,Epstein-Barr virus (strain GD1),10376,1
+GRN,P28799,2896,Q1HVB5,Epstein-Barr virus (strain GD1),10376,1
+GRN,P28799,2896,P03199,Epstein-Barr virus (strain B95-8),10377,1
+TNXB,P22105,7148,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+TRAF1,Q13077,7185,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+ACTN1,P12814,87,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+FN1,P02751,2335,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+LTBP4,Q8N2S1,8425,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+GRN,P28799,2896,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+VWF,P04275,7450,P0C6Z1,Epstein-Barr virus (strain GD1),10376,1
+GPRASP1,Q5JY77,9737,P03188,Epstein-Barr virus (strain B95-8),10377,1
+AP2B1,P63010,163,P03188,Epstein-Barr virus (strain B95-8),10377,1
+LAMB1,P07942,3912,P03188,Epstein-Barr virus (strain B95-8),10377,1
+PDE6G,P18545,5148,P03188,Epstein-Barr virus (strain B95-8),10377,1
+FAM168B,A1KXE4,130074,P03188,Epstein-Barr virus (strain B95-8),10377,1
+TRAF2,Q12933,7186,P03188,Epstein-Barr virus (strain B95-8),10377,1
+LZTS2,Q9BRK4,84445,P03188,Epstein-Barr virus (strain B95-8),10377,1
+VIM,P08670,7431,P03188,Epstein-Barr virus (strain B95-8),10377,1
+FN1,P02751,2335,P03188,Epstein-Barr virus (strain B95-8),10377,1
+LTBP4,Q8N2S1,8425,P03188,Epstein-Barr virus (strain B95-8),10377,1
+GRN,P28799,2896,P03188,Epstein-Barr virus (strain B95-8),10377,1
+VWF,P04275,7450,P03188,Epstein-Barr virus (strain B95-8),10377,1
+FBLN5,Q9UBX5,10516,P03188,Epstein-Barr virus (strain B95-8),10377,1
+TRAF2,Q12933,7186,P0C723,Epstein-Barr virus (strain GD1),10376,1
+SEPP1,P49908,6414,P0C723,Epstein-Barr virus (strain GD1),10376,1
+PHYHD1,Q5SRE7,254295,P0C723,Epstein-Barr virus (strain GD1),10376,1
+NTN4,Q9HB63,59277,P0C723,Epstein-Barr virus (strain GD1),10376,1
+EFEMP1,Q12805,2202,P0C723,Epstein-Barr virus (strain GD1),10376,1
+PLSCR1,O15162,5359,P0C723,Epstein-Barr virus (strain GD1),10376,1
+SNX4,O95219,8723,P0C723,Epstein-Barr virus (strain GD1),10376,1
+PARP4,Q9UKK3,143,P0C723,Epstein-Barr virus (strain GD1),10376,1
+LZTS2,Q9BRK4,84445,P0C723,Epstein-Barr virus (strain GD1),10376,1
+FBLN5,Q9UBX5,10516,P0C723,Epstein-Barr virus (strain GD1),10376,1
+SH3GLB1,Q9Y371,51100,P0C723,Epstein-Barr virus (strain GD1),10376,1
+SEPP1,P49908,6414,P03204,Epstein-Barr virus (strain B95-8),10377,1
+VWF,P04275,7450,P03204,Epstein-Barr virus (strain B95-8),10377,1
+FBLN5,Q9UBX5,10516,P03204,Epstein-Barr virus (strain B95-8),10377,1
+PSMA3,P25788,5684,P03204,Epstein-Barr virus (strain B95-8),10377,1
+FBLN5,Q9UBX5,10516,Q777B8,Epstein-Barr virus (strain GD1),10376,1
+ELF2,Q15723,1998,P03227,Epstein-Barr virus (strain B95-8),10377,1
+FBLN5,Q9UBX5,10516,P03227,Epstein-Barr virus (strain B95-8),10377,1
+ZMYND11,Q15326,10771,P12978,Epstein-Barr virus (strain B95-8),10377,1
+EFEMP2,O95967,30008,P12978,Epstein-Barr virus (strain B95-8),10377,1
+FBLN5,Q9UBX5,10516,P12978,Epstein-Barr virus (strain B95-8),10377,1
+SH3GLB1,Q9Y371,51100,P12978,Epstein-Barr virus (strain B95-8),10377,1
+AES,Q08117,166,P12978,Epstein-Barr virus (strain B95-8),10377,1
+DYNLL1,P63167,8655,P12978,Epstein-Barr virus (strain B95-8),10377,1
+RCBTB1,Q8NDN9,55213,P12978,Epstein-Barr virus (strain B95-8),10377,1
+CD46,P15529,4179,P12978,Epstein-Barr virus (strain B95-8),10377,1
+SRI,P30626,6717,P12978,Epstein-Barr virus (strain B95-8),10377,1
+CBX3,Q13185,11335,P12978,Epstein-Barr virus (strain B95-8),10377,1
+BLNK,Q8WV28,29760,P12978,Epstein-Barr virus (strain B95-8),10377,1
+FCHSD1,Q86WN1,89848,P12978,Epstein-Barr virus (strain B95-8),10377,1
+KRT36,O76013,8689,P12978,Epstein-Barr virus (strain B95-8),10377,1
+GCA,P28676,25801,P12978,Epstein-Barr virus (strain B95-8),10377,1
+CD5L,O43866,922,P12978,Epstein-Barr virus (strain B95-8),10377,1
+PSMA3,P25788,5684,P12978,Epstein-Barr virus (strain B95-8),10377,1
+ACTN1,P12814,87,P03203,Epstein-Barr virus (strain B95-8),10377,1
+ZYX,Q15942,7791,P03203,Epstein-Barr virus (strain B95-8),10377,1
+ACTN4,O43707,81,P03203,Epstein-Barr virus (strain B95-8),10377,1
+SH3GLB1,Q9Y371,51100,P03203,Epstein-Barr virus (strain B95-8),10377,1
+PSMA3,P25788,5684,P03203,Epstein-Barr virus (strain B95-8),10377,1
+PSME3,P61289,10197,Q777C4,Epstein-Barr virus (strain GD1),10376,1
+LTBP4,Q8N2S1,8425,Q777C4,Epstein-Barr virus (strain GD1),10376,1
+PSMA3,P25788,5684,Q777C4,Epstein-Barr virus (strain GD1),10376,1
+TES,Q9UGI8,26136,Q777C4,Epstein-Barr virus (strain GD1),10376,1
+APOL3,O95236,80833,Q777C4,Epstein-Barr virus (strain GD1),10376,1
+SERTAD1,Q9UHV2,29950,P03189,Epstein-Barr virus (strain GD1),10376,1
+PSMA3,P25788,5684,P03189,Epstein-Barr virus (strain GD1),10376,1
+SERTAD1,Q9UHV2,29950,Q1HVD9,Epstein-Barr virus (strain GD1),10376,1
+PKM,P14618,5315,P03228,Epstein-Barr virus (strain B95-8),10377,1
+ACTN1,P12814,87,P03228,Epstein-Barr virus (strain B95-8),10377,1
+SARAF,Q96BY9,51669,P03228,Epstein-Barr virus (strain B95-8),10377,1
+SERTAD1,Q9UHV2,29950,P03228,Epstein-Barr virus (strain B95-8),10377,1
+PKM,P14618,5315,P26663,Hepatitis C virus genotype 1b (isolate BK),11105,1
+PKM,P14618,5315,P03233,Epstein-Barr virus (strain B95-8),10377,1
+ACTN1,P12814,87,P03233,Epstein-Barr virus (strain B95-8),10377,1
+PSME3,P61289,10197,P03233,Epstein-Barr virus (strain B95-8),10377,1
+RNF31,Q96EP0,55072,P03233,Epstein-Barr virus (strain B95-8),10377,1
+MMRN2,Q9H8L6,79812,P03233,Epstein-Barr virus (strain B95-8),10377,1
+EFEMP1,Q12805,2202,P03233,Epstein-Barr virus (strain B95-8),10377,1
+EFEMP2,O95967,30008,P03233,Epstein-Barr virus (strain B95-8),10377,1
+PSMA3,P25788,5684,P03233,Epstein-Barr virus (strain B95-8),10377,1
+TSG101,Q99816,7251,P03233,Epstein-Barr virus (strain B95-8),10377,1
+IMMT,Q16891,10989,P03233,Epstein-Barr virus (strain B95-8),10377,1
+NCKIPSD,Q9NZQ3,51517,P03233,Epstein-Barr virus (strain B95-8),10377,1
+NCKIPSD,Q9NZQ3,51517,P15054,Avian sarcoma virus (strain PR2257),11879,1
+RAF1,P04049,5894,P15054,Avian sarcoma virus (strain PR2257),11879,1
+HCK,P08631,3055,P04324,Human immunodeficiency virus type 1 (isolate 12),11679,1
+MAP3K5,Q99683,4217,P04324,Human immunodeficiency virus type 1 (isolate 12),11679,1
+AP1B1,Q10567,162,P04324,Human immunodeficiency virus type 1 (isolate 12),11679,1
+LYN,P07948,4067,P04604,Human immunodeficiency virus type 1 (isolate ELI),11689,1
+HCK,P08631,3055,P04604,Human immunodeficiency virus type 1 (isolate ELI),11689,1
+SRC,P12931,6714,P04604,Human immunodeficiency virus type 1 (isolate ELI),11689,1
+LYN,P07948,4067,P03407,Human immunodeficiency virus type 1 (isolate ARV2/SF2),11685,1
+HCK,P08631,3055,P03407,Human immunodeficiency virus type 1 (isolate ARV2/SF2),11685,1
+FYN,P06241,2534,P03407,Human immunodeficiency virus type 1 (isolate ARV2/SF2),11685,1
+SRC,P12931,6714,P03407,Human immunodeficiency virus type 1 (isolate ARV2/SF2),11685,1
+LYN,P07948,4067,Q9QPN3,Human immunodeficiency virus type 1 (isolate Lai),290579,1
+HCK,P08631,3055,Q9QPN3,Human immunodeficiency virus type 1 (isolate Lai),290579,1
+FYN,P06241,2534,Q9QPN3,Human immunodeficiency virus type 1 (isolate Lai),290579,1
+SRC,P12931,6714,Q9QPN3,Human immunodeficiency virus type 1 (isolate Lai),290579,1
+LYN,P07948,4067,Q85737,Human immunodeficiency virus 1,11676,1
+HCK,P08631,3055,Q85737,Human immunodeficiency virus 1,11676,1
+FYN,P06241,2534,Q85737,Human immunodeficiency virus 1,11676,1
+SRC,P12931,6714,Q85737,Human immunodeficiency virus 1,11676,1
+LYN,P07948,4067,Q9E3E3,Hepatitis C virus subtype 1a,31646,1
+HCK,P08631,3055,Q9E3E3,Hepatitis C virus subtype 1a,31646,1
+FYN,P06241,2534,Q9E3E3,Hepatitis C virus subtype 1a,31646,1
+RAF1,P04049,5894,O39474,Hepatitis C virus,11103,1
+FKBP5,Q13451,2289,O39474,Hepatitis C virus,11103,1
+GRB2,P62993,2885,O39474,Hepatitis C virus,11103,1
+FKBP8,Q14318,23770,O39474,Hepatitis C virus,11103,1
+LCK,P06239,3932,O39474,Hepatitis C virus,11103,1
+LYN,P07948,4067,O39474,Hepatitis C virus,11103,1
+HCK,P08631,3055,O39474,Hepatitis C virus,11103,1
+FYN,P06241,2534,O39474,Hepatitis C virus,11103,1
+CD4,P01730,920,P22575,Saimiriine herpesvirus 2 (strain 488),10384,1
+LCK,P06239,3932,P22575,Saimiriine herpesvirus 2 (strain 488),10384,1
+LYN,P07948,4067,P22575,Saimiriine herpesvirus 2 (strain 488),10384,1
+BTRC,Q9Y297,8945,P69700,Human immunodeficiency virus type 1 (isolate HXB3),11707,1
+CD4,P01730,920,P69700,Human immunodeficiency virus type 1 (isolate HXB3),11707,1
+BTRC,Q9Y297,8945,O09528,Human immunodeficiency virus 1,11676,1
+CD4,P01730,920,O09528,Human immunodeficiency virus 1,11676,1
+CCL21,O00585,6366,P24766,Vaccinia virus (strain Western Reserve / WR),10254,1
+CCL25,O15444,6370,P24766,Vaccinia virus (strain Western Reserve / WR),10254,1
+PF4,P02776,5196,P24766,Vaccinia virus (strain Western Reserve / WR),10254,1
+CCL28,Q9NRJ3,56477,P24766,Vaccinia virus (strain Western Reserve / WR),10254,1
+CCL26,Q9Y258,10344,P24766,Vaccinia virus (strain Western Reserve / WR),10254,1
+ATP6V1G1,O75348,9550,P0C6X7,Human SARS coronavirus,227859,1
+MFSD1,Q9H3U5,64747,Q777C6,Epstein-Barr virus (strain GD1),10376,1
+PIGS,Q96S52,94005,Q777C6,Epstein-Barr virus (strain GD1),10376,1
+MAPRE1,Q15691,22919,Q04360,Epstein-Barr virus (strain GD1),10376,1
+TRA2B,P62995,6434,Q04360,Epstein-Barr virus (strain GD1),10376,1
+SP100,P23497,6672,Q04360,Epstein-Barr virus (strain GD1),10376,1
+NFKB1,P19838,4790,Q777F5,Epstein-Barr virus (strain GD1),10376,1
+UNG,P13051,7374,P14739,Bacteriophage PBS2,10684,1
+TNFRSF14,Q92956,8764,P57083,Human herpesvirus 1 (strain Patton),10308,1
+PIK3R1,P27986,5295,P69277,Influenza A virus (strain A/Aichi/2/1968 H3N2),387139,1
+HIF1A,Q16665,3091,Q7TDY3,Hepatitis B virus,10407,1
+EIF2AK2,P19525,5610,P20639,Vaccinia virus (strain Copenhagen),10249,1
+MED17,Q9NVC6,9440,P06492,Human herpesvirus 1 (strain 17),10299,1
+MED29,Q9NX70,55588,P06492,Human herpesvirus 1 (strain 17),10299,1
+MED8,Q96G25,112950,P06492,Human herpesvirus 1 (strain 17),10299,1
+LAMA1,P25391,284217,Q8BDF8,Vaccinia virus,10245,1
+GZMH,P20718,2999,P24933,Human adenovirus 5,28285,1
+VDAC1,P21796,7416,P69728,Human immunodeficiency virus type 1 (isolate 12),11679,1
+CDK6,Q00534,1021,Q01043,Saimiriine herpesvirus 2 (strain 11),10383,1
+TNF,P01375,7124,Q8UYL3,Vaccinia virus,10245,1
+TNF,P01375,7124,Q1M1E0,Vaccinia virus,10245,1
+SPINT2,O43291,10653,Q03499,Hepatitis E virus (strain Mexico),31768,1
+AMBP,P02760,259,P69616,Hepatitis E virus (strain Burma),31767,1
+SPINT2,O43291,10653,P69616,Hepatitis E virus (strain Burma),31767,1
+CASP8,Q14790,841,P08160,Autographa californica nuclear polyhedrosis virus,46015,1
+NFIA,Q12857,4774,P03264,Human adenovirus 2,10515,1
+NFKBIA,P25963,4792,Q9J0X9,Human herpesvirus 1,10298,1
+SRPK1,Q96SB4,6732,A7Y3Z3,Human papillomavirus type 16,333760,1
